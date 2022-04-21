@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "description": "PortalBox Client",
+    "homepage": "https://www.portalbox.app",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/portalbox-app/portalbox/releases/download/v0.1.0/portalbox-0.1.0-windows-x64.tar.gz",
+            "hash": "B63084FD9BE672304EF504A51ED47C4625FE881C42736D84A1E06785CAF8A20D"
+        }
+    },
+    "bin": "portalbox.exe"
+}
