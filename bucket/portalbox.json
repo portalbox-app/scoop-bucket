@@ -9,5 +9,8 @@
             "hash": "18CEA27B349F0F63A9CB7C92230C13969FC03CD128529289F92EACB1CBCFA223"
         }
     },
+    "env_set": {
+        "PORTALBOX_RUNTIME_DIR": "$dir"
+    },
     "bin": "portalbox.exe"
 }
