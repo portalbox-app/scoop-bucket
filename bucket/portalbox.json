@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/portalbox-app/portalbox/releases/download/v0.1.0/portalbox-0.1.0-windows-x64.tar.gz",
-            "hash": "18CEA27B349F0F63A9CB7C92230C13969FC03CD128529289F92EACB1CBCFA223"
+            "hash": "0C11323A03B6C9C9892E4D963818156ABD23C05F2ED264A2CDBB5FD6C43ED9DA"
         }
     },
     "env_set": {
